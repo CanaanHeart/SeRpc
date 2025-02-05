@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -O2 -Wall -g -shared -Wl,-soname,libuser_rpc.so -o /home/moon/MProj/se_rpc/lib/libuser_rpc.so CMakeFiles/user_rpc.dir/user.pb.cc.o 
