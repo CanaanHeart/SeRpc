@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -O2 -Wall -g -shared -Wl,-soname,libload_config.so -o /home/zxc/MProj/se_rpc/lib/libload_config.so CMakeFiles/load_config.dir/LoadConfig.cpp.o   -L/home/zxc/MProj/se_rpc/lib  -Wl,-rpath,/home/zxc/MProj/se_rpc/lib /home/zxc/MProj/se_rpc/lib/liblogger.so 
