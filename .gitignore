@@ -1,0 +1,7 @@
+README.md
+.vscode/
+bin/
+build/
+lib/
+pkgs/
+test/
